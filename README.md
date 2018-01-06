@@ -1,6 +1,11 @@
 # generator-express-typescript
 [Yeoman](http://yeoman.io) generator for express.js projects written in TypeScript.
 
+# FORK DEPRECATED
+* I decided to create a new package located here on 
+[Github](https://github.com/khaliqgant/generator-typescript-express) and 
+[npm](tbd)
+
 ## What's in the box
 
 This generator creates project with some fancy tools onboard:
